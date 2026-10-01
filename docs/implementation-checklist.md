@@ -1,17 +1,17 @@
 # Implementation Checklist
 
 ## Foundation
-- [ ] Repository initialized
-- [ ] Backend initialized
+- [x] Repository initialized
+- [x] Backend initialized
 - [ ] Frontend initialized
-- [ ] Environment configuration
-- [ ] Database initialized
-- [ ] `/health` working
+- [x] Environment configuration
+- [x] Database initialized
+- [x] `/health` working
 
 ## Leads
-- [ ] CSV parser
-- [ ] Lead validation
-- [ ] Lead CRUD
+- [x] CSV parser
+- [x] Lead validation
+- [x] Lead CRUD
 - [ ] Demo dataset
 
 ## AI
@@ -19,7 +19,7 @@
 - [ ] NVIDIA Nemotron model configured
 - [ ] Qualification prompt
 - [ ] Structured qualification output
-- [ ] Scoring service
+- [x] Scoring service
 - [ ] Outreach prompt
 - [ ] Agent run logging
 
